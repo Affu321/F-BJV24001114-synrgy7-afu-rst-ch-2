@@ -1,0 +1,5 @@
+========================
+Struk Pembelian:
+Mie Goreng | Qty: 2 | Total: Rp.26000.0
+Total Harga: Rp.26000.0
+Terima kasih telah menggunakan layanan kami.
